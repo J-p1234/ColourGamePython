@@ -49,5 +49,6 @@ The game ends when the timer reaches zero.
 👤 Author
 
 Created by JP
+
 <img width="597" height="521" alt="Στιγμιότυπο οθόνης 2026-01-14 190429" src="https://github.com/user-attachments/assets/a03957df-95e1-4bdc-b906-47c647249558" />
 
